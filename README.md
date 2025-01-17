@@ -1,4 +1,4 @@
-## Capstone-Project
+# Capstone-Project
 ## Overview
 This repository contains the final capstone project for the IBM Data Analyst Professional Certificate. By completing this project, I applied various Data Analytics skills and techniques learned throughout the course. As an Associate Data Analyst, I was presented with a business challenge requiring data analysis on real-world datasets.
 
